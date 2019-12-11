@@ -9,8 +9,6 @@ import Settings from "./pages/Settings";
 
 const app = document.getElementById('app');
 
-// ReactDOM.render(<Layout />, app);
-
 ReactDOM.render (
   <Router>
     <Layout>
